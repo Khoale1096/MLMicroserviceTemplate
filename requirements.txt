@@ -6,8 +6,5 @@ uuid
 uvicorn
 python-multipart
 pillow
-scipy
-numpy
-torch
-torchvision
-opencv-python
+python-dotenv
+requests
